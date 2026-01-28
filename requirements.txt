@@ -4,3 +4,4 @@ jsonschema
 pyyaml
 beautifulsoup4
 lxml
+openai
