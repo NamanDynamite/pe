@@ -6,3 +6,4 @@ beautifulsoup4
 lxml
 openai
 python-dotenv
+reportlab
